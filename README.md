@@ -14,3 +14,5 @@ These are set up as follows:
 2: Left Arrow = Reverse 
 3: Right Arrow: Play
 </p>
+![assignment one event graph sunmoon](https://github.com/user-attachments/assets/a40aab26-f3ce-4f64-845a-73fc484b15c4)
+![assignment one day night cycle timeline](https://github.com/user-attachments/assets/4ff03374-42c4-4541-88dd-2aafe5650166)
